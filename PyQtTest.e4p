@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Project SYSTEM "Project-5.1.dtd">
 <!-- eric project file for project PyQtTest -->
-<!-- Saved: 2015-11-18, 17:46:45 -->
+<!-- Saved: 2015-11-19, 16:51:02 -->
 <!-- Copyright (C) 2015 hedge31,  -->
 <Project version="5.1">
   <Language>en_US</Language>
@@ -17,6 +17,7 @@
     <Source>__init__.py</Source>
     <Source>Ui_MainFrame.py</Source>
     <Source>Main.py</Source>
+    <Source>loadingData.py</Source>
   </Sources>
   <Forms>
     <Form>MainFrame.ui</Form>

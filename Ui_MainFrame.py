@@ -224,6 +224,7 @@ class Ui_MainWindow(object):
         self.MainBox.addLayout(self.horizontalLayout_3)
         MainWindow.setCentralWidget(self.centralWidget)
         self.centralWidget.setLayout(self.MainBox)
+        
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
